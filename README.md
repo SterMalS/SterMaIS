@@ -1,0 +1,2 @@
+# SterMaIS
+*
